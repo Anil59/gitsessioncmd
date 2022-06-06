@@ -1,4 +1,2 @@
 Hi New Repo
-Scenario# 3.
-
-message reverting
+Scenario# 3
